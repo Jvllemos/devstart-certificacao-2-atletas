@@ -2,6 +2,10 @@
 Projeto em JavaScript para a Certificação 2 do curso Devstart (Floripa Mais Tech)
 
 # Projeto de Certificação 2 - Cadastro de Atleta
+![Curso](https://img.shields.io/badge/Curso-Devstart-blue)
+![Instituição](https://img.shields.io/badge/Instituição-Floripa%20Mais%20Tech-orange)
+![Linguagem](https://img.shields.io/badge/Linguagem-JavaScript-yellow)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## 🎯 Sobre o Projeto
 
